@@ -1,0 +1,16 @@
+body{
+    background: linear-gradient(white 0%, rgb(238, 160, 215) 50%, rgb(240, 110, 110) 100% );
+
+    #Ananya{
+        font-family: 'Dancing Script', cursive;
+        color: white;
+    }
+
+    .instructions{
+        font-family: 'Pacifico', cursive;
+    }
+
+    #Heading{
+        font-family: 'Lobster', sans-serif;
+    }
+}
